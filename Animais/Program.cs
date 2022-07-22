@@ -32,7 +32,7 @@ namespace Animais
 
             foreach (string animal in listaAnimais)
             {
-                Console.WriteLine($"Nome digitado: {animal}");
+                Console.WriteLine($"Animal digitado: {animal}");
             }
 
         }
